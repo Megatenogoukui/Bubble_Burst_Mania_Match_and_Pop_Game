@@ -1,5 +1,5 @@
 var score = 0;
-var time = 6;
+var time = 30;
 var hitNo ;
 var totalBubbles;
 function bubbleMaking(){
