@@ -33,6 +33,7 @@ function timer(){
             document.querySelector("#panel-bottom").innerHTML = `<h1>GAME OVER</h1>
             <h2> YOUR SCORE  : ${score}</h2>`
             clearInterval();
+           
         }
     },1000);
 }
